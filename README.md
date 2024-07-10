@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 2. Example
 3. Example
 
-**Embedded YouTube video:**
+**Link to some YouTube video:**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/iBty7FE_zlQ/0.jpg)](https://www.youtube.com/watch?v=iBty7FE_zlQ)
 
