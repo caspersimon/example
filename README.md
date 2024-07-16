@@ -54,6 +54,8 @@ Another good strategy for coming up with titles is structuring your video into *
 
 **TL;DR:**
 Create a title that makes it clear which value it provides to the viewer and sets expectations for what they will see.
+
+
 ### Pacing
 You've heard it before: people's attention spans are not what they used to be. That is why it is important that your video does not bore people.
 
@@ -66,6 +68,8 @@ You've heard it before: people's attention spans are not what they used to be. T
 Do not be afraid that your video delivers information too fast. If you have ever been on TikTok, you have likely seen videos that consist of subway surfers gameplay combined with some other video. People can handle large amounts of information.
 
 In the next two chapters, we will look at some examples of how you can get the pacing of your video right.
+
+
 ### Music
 Most videos have some music playing in the background. This can help with the pacing of your videos.
 
