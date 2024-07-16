@@ -81,6 +81,7 @@ To find music you can use on TikTok and Instagram, there are a few resources I c
 3. **TikTok's commercial audio library** https://ads.tiktok.com/business/creativecenter/music/pc/en
    You can use this website to find music, but it does not allow you to download the music into your own projects. So when you want to use a song from here, you should tell Bridget and she'll add it in during the posting of this video.
    Also, not every song in here can also be used on Instagram. It might take some digging to find out whether a song is also on Instagram.
+
 ## Engagement
 **Engagement** relates to whether people like, comment, save and/or share a video. Ideally, you create your video in a way that invites people to press all the buttons.
 ### Optimising for shares and saves
