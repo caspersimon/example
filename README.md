@@ -4,11 +4,11 @@ This e-learning is split up into three parts. First, you will learn some of the 
 
 **Contents**
 * Fundamentals
-	* [Retention](https://caspersimon.github.io/example/#Retention)
+	* [Retention](https://caspersimon.github.io/example/#retention)
 		* Title
 		* Pacing
 		* Music
-	* Engagement
+	* [Engagement](https://caspersimon.github.io/example/#engagement)
 		* Optimising for shares and saves
 		* Optimising for comments
  * In practice (with examples)
